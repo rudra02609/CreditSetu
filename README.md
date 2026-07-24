@@ -226,7 +226,7 @@ Add screenshots of:
 - Financial Insights Dashboard
 
 ---
----
+
 
 # 👥 Team
 
