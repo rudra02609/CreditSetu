@@ -230,7 +230,7 @@ Add screenshots of:
 
 # 👥 Team
 
-CreditSetu was collaboratively designed and developed by:
+CreditSetu was collaboratively designed and developed by:-
 
 | Name | GitHub |
 |------|--------|
