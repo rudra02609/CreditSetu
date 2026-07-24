@@ -226,6 +226,19 @@ Add screenshots of:
 - Financial Insights Dashboard
 
 ---
+---
+
+# 👥 Team
+
+CreditSetu was collaboratively designed and developed by:
+
+| Name | GitHub |
+|------|--------|
+| Rudra Prajapati | [@rudra02609](https://github.com/rudra02609) |
+| Have Patel | [@HavePatel](https://github.com/HavePatel) |
+| Khushi Vadodariya | [@KhushiVadadoriya](https://github.com/KhushiVadadoriya) |
+
+---
 
 # 📄 License
 
